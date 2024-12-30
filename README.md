@@ -17,6 +17,8 @@ Students have the ability to fill out and submit a form.
 
 ![Form Submission](media/formSubmission.gif)
 
+Video demo link: https://youtu.be/CkwOwgwtl6s?si=uBkrIC_s63E2dsfM
+Original repo: https://github.com/jcrane613/YUWorkflow
 On submission, the student receives
 an email confirmation that their form has been received.
 
